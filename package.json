@@ -12,5 +12,10 @@
     "library"
   ],
   "author": "Willian Silva <willian.j.silva@gmail.com> (https://github.com/silvawillian)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
 }
